@@ -1,0 +1,15 @@
+/Store.Web/*.user
+/Store/bin
+/Store/obj
+/Store.Data/bin
+/Store.Data/obj
+/Store.Model/obj
+/Store.Model/bin
+/Store.Service/obj
+/Store.Service/bin
+/Store.Web/obj
+/Store.Web/bin
+/*.suo
+/packages
+/Store/*.suo
+/Store/*.user
